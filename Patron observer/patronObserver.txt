@@ -1,0 +1,1 @@
+El patrón Observer, es un patrón de diseño de software que nos permite definir una dependencia de uno a muchos entre elementos del sistema, los cuales serán notificados por parte del observable cada vez que se realice una modificación.
